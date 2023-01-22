@@ -1,10 +1,10 @@
 import './App.css';
-import Profile from './Profile';
+import BasicValidationLogin from './component/BasicValidationLogin';
 
 function App() {
 
   return (
-    <Profile/>
+    <BasicValidationLogin/>
   );
 }
 
