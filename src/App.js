@@ -1,10 +1,10 @@
 import './App.css';
-import HandleForm from './HandleForm';
+import Profile from './Profile';
 
 function App() {
 
   return (
-    <HandleForm/>
+    <Profile/>
   );
 }
 
