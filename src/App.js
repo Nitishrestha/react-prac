@@ -1,12 +1,10 @@
 import './App.css';
-import FormValue from './FormValue';
-import HideElement from './HideElement';
+import HandleForm from './HandleForm';
 
 function App() {
 
   return (
-    <HideElement/>
-    
+    <HandleForm/>
   );
 }
 
